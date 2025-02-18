@@ -1,1 +1,2 @@
-https://cdn.jsdelivr.net/gh/yydy777/WeDoLDRFiles/
+https://cdn.jsdelivr.net/gh/yydy777/WeDoLDRFiles@main/
+https://fastly.jsdelivr.net/gh/yydy777/WeDoLDRFiles@main/
